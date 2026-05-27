@@ -1,8 +1,5 @@
 # RailPorter-
 RailPorter is a modern full-stack railway management and train information platform designed to provide users with an efficient and seamless train search experience. The application allows users to explore train schedules, stations, routes, and railway-related information through an interactive and responsive interface.
-
-The project is built using a powerful combination of React for the frontend and Spring Boot for the backend, with MongoDB used for handling large railway datasets efficiently.
-
 RailPorter focuses on performance, scalability, and real-time railway data management, making it a practical project for learning full-stack development and backend data processing.
 
 # 🌟 Project Overview
